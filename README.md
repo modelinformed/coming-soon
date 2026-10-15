@@ -1,2 +1,1 @@
-# coming-soon
-Coming soon landing page
+coming soon
